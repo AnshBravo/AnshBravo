@@ -1,21 +1,7 @@
 <div align="center">
 
   <!-- Cherry Blossom Background -->
-  <img src="https://github.com/AnshBravo/AnshBravo/blob/main/images/cherryblossom.jpg" alt="Cherry Blossom Background" width="100%"/>
-
-  <!-- Pixel-style Bio Overlay -->
-  <img src="https://github.com/AnshBravo/AnshBravo/blob/main/images/pixel-bio.png" alt="Pixel Bio" width="80%" style="margin-top:-250px;"/>
-
-  <!-- Avatar on top -->
-  <img src="https://github.com/AnshBravo.png" width="120" height="120" style="border-radius:50%; margin-top:-50px;"/>
-
-  <!-- Pixelated bio text below avatar -->
-  <h2 style="margin-top:10px;">Hi, I’m Ansh 👋</h2>
-  <p style="font-family: 'Press Start 2P', cursive; font-size:14px; margin:5px 0;">
-    Adventurous teen completing side quests instead of going to college |  
-    Learning programming, building projects & leveling up 🚀 |  
-    I like to play games 🎮
-  </p>
+  <img src="https://github.com/AnshBravo/AnshBravo/blob/main/images/pfp.png" alt="Cherry Blossom Background" width="100%"/>
 
   <!-- Badges -->
 
