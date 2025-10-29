@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Cherry Blossom Background -->
-  <img src="https://github.com/AnshBravo/AnshBravo/blob/main/pfp.png" alt="Cherry Blossom Background" width="100%"/>
+  <img src="https://github.com/AnshBravo/AnshBravo/blob/main/pfp.png" alt="Cherry Blossom Background" width="100%" margin-bottom= "50px"/>
 
   <!-- Badges -->
 
