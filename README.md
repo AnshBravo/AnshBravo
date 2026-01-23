@@ -47,9 +47,10 @@
 
 ## 🗂️ Featured Projects
 
-- [Weather App](https://anshbravo.github.io/Weather-app/) – Real-time weather data
-- [Pokémon App](https://github.com/AnshBravo/pokemon-app) – Catch ‘em all digitally
+- [BMI Calulator](https://github.com/AnshBravo/BMI-Calculator) – Calculate your BMI and get Health Tips!
+- [Pokémon App](https://github.com/AnshBravo/Pokemon-Fetcher) – Catch ‘em all digitally
 - [Coffee Planet](https://github.com/AnshBravo/coffee-planet) – Coffee guide & info website
+- [Weatherinator](https://github.com/AnshBravo/Weatherinator) – Fetch the weather of your city or not!
 
 ---
 
