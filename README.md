@@ -68,10 +68,10 @@ Currently leveling up in → Next.js · TypeScript · Framer Motion
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Weatherinator**](https://github.com/AnshBravo/Weatherinator) | Real-time weather by city | JS · CSS · Open Weather API |
-| [**Pokémon Fetcher**](https://github.com/AnshBravo/Pokemon-Fetcher) | Browse & search 1000+ Pokémon | React · PokéAPI · Hooks |
-| [**Coffee Planet**](https://github.com/AnshBravo/coffee-planet) | Coffee guide & info site | HTML · CSS · JS |
-| [**BMI Calculator**](https://github.com/AnshBravo/BMI-Calculator) | BMI tool with health tips | HTML · JS · CSS |
+| [**Crystal Smile**](https://github.com/AnshBravo/crystal-smile) | E-commerce storefront for a dental care brand — listings, cart & checkout | React · Tailwind |
+| [**Trip Nomad**](https://github.com/AnshBravo/trip-nomad) | Travel planning app — browse destinations & build itineraries | React · Tailwind |
+| [**BMI Calculator**](https://github.com/AnshBravo/BMI-Calculator) | Health calculator with contextual tips and clean input UX | HTML · CSS · Vanilla JS |
+| [**Weatherinator**](https://github.com/AnshBravo/Weatherinator) | Real-time weather lookup by city | JS · CSS · Open Weather API |
 
 ---
 
