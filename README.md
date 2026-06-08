@@ -1,20 +1,33 @@
 <div align="center">
 
-  <!-- Cherry Blossom Background -->
-  <img src="https://github.com/AnshBravo/AnshBravo/blob/main/pfp.png" alt="Cherry Blossom Background" width="100%" margin-bottom= "80"/>
-
-  <!-- Badges -->
-
-[![GitHub](https://img.shields.io/github/followers/AnshBravo?label=GitHub&style=social)](https://github.com/AnshBravo)
-[![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.anshbravo99@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75&height=120&section=header&text=Ansh+Bravo&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Frontend+Developer&descAlignY=75&descSize=16" width="100%"/>
 
 </div>
 
 ---
 
-## 🧰 Skills & Tools
+<div align="center">
 
-### 🎨 Frontend
+[![GitHub followers](https://img.shields.io/github/followers/AnshBravo?label=Follow&style=social)](https://github.com/AnshBravo)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/anshbravo99%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anshbravo99@gmail.com)&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20to%20work-1D9E75?style=flat)
+
+</div>
+
+---
+
+## `whoami`
+
+```
+Frontend developer with a sharp eye for design and a genuine love for building things.
+I care about code that's clean, UIs that breathe, and details that most people miss.
+
+Currently leveling up in → Next.js · TypeScript · Framer Motion
+```
+
+---
+
+## 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +35,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🛠️ Dev Tools & Design
+## 🛠️ Tooling & Design
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -30,38 +43,46 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+## 📖 Learning Next
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
 ---
 
-## ⚡ GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshBravo&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshBravo&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshBravo&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshBravo&theme=radical&hide_border=true" height="160"/>
 </div>
 
-## 📈 Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBravo&layout=compact&theme=radical)
-
----
-
-## 🗂️ Featured Projects
-
-- [BMI Calulator](https://github.com/AnshBravo/BMI-Calculator) – Calculate your BMI and get Health Tips!
-- [Pokémon App](https://github.com/AnshBravo/Pokemon-Fetcher) – Catch ‘em all digitally
-- [Coffee Planet](https://github.com/AnshBravo/coffee-planet) – Coffee guide & info website
-- [Weatherinator](https://github.com/AnshBravo/Weatherinator) – Fetch the weather of your city or not!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBravo&layout=compact&theme=radical&hide_border=true" height="140"/>
+</div>
 
 ---
 
-## 🎮 Fun Stuff
+## 🗂️ Projects
 
-I like tanks <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/30aba1d0-f292-41f6-841a-9726bc318b3b" />
+| Project | What it does | Stack |
+|---|---|---|
+| [**Weatherinator**](https://github.com/AnshBravo/Weatherinator) | Real-time weather by city | JS · CSS · Open Weather API |
+| [**Pokémon Fetcher**](https://github.com/AnshBravo/Pokemon-Fetcher) | Browse & search 1000+ Pokémon | React · PokéAPI · Hooks |
+| [**Coffee Planet**](https://github.com/AnshBravo/coffee-planet) | Coffee guide & info site | HTML · CSS · JS |
+| [**BMI Calculator**](https://github.com/AnshBravo/BMI-Calculator) | BMI tool with health tips | HTML · JS · CSS |
 
-> I like to play games too
+---
+
+## ⚡ Philosophy
+
+> Build it right. Make it look good. Keep learning.
+
+I treat every project as a chance to sharpen something — whether it's state management, responsive layout, or just writing cleaner component logic. The growth is the point.
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75&height=80&section=footer"/>
 </div>
