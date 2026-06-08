@@ -1,62 +1,43 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,333333&height=100&section=header&text=Ansh+Bravo&fontSize=36&fontColor=ffffff&fontAlignY=60&desc=Frontend+Developer&descSize=14&descAlignY=80" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,111111,222222&height=120&section=header&text=ANSH%20BRAVO&fontSize=40&fontColor=ffffff&fontAlignY=55&desc=%E2%80%94%20frontend%20developer%20%E2%80%94&descSize=14&descAlignY=75" width="100%"/>
 </div>
 
 <br/>
 
-```
-// open to work — frontend developer
-```
-
-## Ansh Bravo
-
-I build interfaces that are fast, accessible, and obsessively refined.  
-Focused on React and modern CSS — always learning, always shipping.
-
-[![GitHub](https://img.shields.io/badge/AnshBravo-181717?style=flat&logo=github&logoColor=white)](https://github.com/AnshBravo)
-[![Email](https://img.shields.io/badge/anshbravo99%40gmail.com-444?style=flat&logo=gmail&logoColor=white)](mailto:anshbravo99@gmail.com)
-[![Status](https://img.shields.io/badge/open_to_work-1D9E75?style=flat)](https://github.com/AnshBravo)
-
----
-
-## Skills
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Learning →**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-
----
-
-## Projects
-
-| # | Project | Description | Stack |
-|---|---|---|---|
-| 01 | [Crystal Smile](https://github.com/AnshBravo/crystal-smile) | Dental e-commerce — listings, cart & checkout | React · Tailwind |
-| 02 | [Trip Nomad](https://github.com/AnshBravo/trip-nomad) | Travel planner — destinations & itinerary builder | React · Tailwind |
-| 03 | [BMI Calculator](https://github.com/AnshBravo/BMI-Calculator) | Health calculator with contextual tips | HTML · CSS · JS |
-
----
-
-## GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshBravo&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBravo&layout=compact&theme=graywhite&hide_border=true" height="150"/>
+  <a href="https://github.com/AnshBravo">
+    <img src="https://img.shields.io/badge/status-open__to__work-000000?style=for-the-badge&labelColor=111111&color=ffffff" alt="Open to Work" />
+  </a>
+  <a href="https://github.com/AnshBravo">
+    <img src="https://img.shields.io/badge/github-anshbravo-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:anshbravo99@gmail.com">
+    <img src="https://img.shields.io/badge/email-get__in__touch-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
+<br/>
+
+## ── About Me
+
+I build digital interfaces that are fast, accessible, and obsessively refined. Focused on writing highly structured, component-driven code with a sharp eye for typography and fluid animations. 
+
+* ⚡ **Philosophy:** Keep it minimal. Make it absolute fluid. Focus on the core user experience.
+* 🌱 **Mindset:** Constantly expanding my technical horizon, looking to optimize workflows, and always shipping.
+
 ---
 
-> Build it right. Make it look good. Keep learning.
+## ── Technical Arsenal
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,333333&height=60&section=footer" width="100%"/>
-</div>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="33.3%" valign="top" style="border: none;">
+      <h3>⚡ Core Stack</h3>
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript_ES6+-000000?style=flat-square&logo=javascript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/HTML5_/_CSS3-000000?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+    <td width="33.3%" valign="top" style="border: none;">
+      <h3>🎨 Styling & Motion</h3>
+      <img src="
