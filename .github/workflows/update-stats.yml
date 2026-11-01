@@ -1,4 +1,4 @@
-name: Update GitHub Profile Stats
+name: Update GitHub Profile Activity
 
 on:
   schedule:
@@ -16,6 +16,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      # GitHub statistics
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -25,6 +29,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      # Programming language statistics
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -34,13 +39,41 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Commit updated stats
+      # Contribution graph animation
+      - name: Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AnshBravo
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Move generated images into repository
+      - name: Prepare generated images
+        run: |
+          cp dist/github-snake.svg profile/
+          cp dist/github-snake-dark.svg profile/
+
+      # Verify files before committing
+      - name: Verify generated files
+        run: |
+          ls -lh profile/
+          test -s profile/stats.svg
+          test -s profile/top-langs.svg
+          test -s profile/github-snake.svg
+          test -s profile/github-snake-dark.svg
+
+      # Commit generated images
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add profile/*.svg
 
-          git commit -m "chore: update GitHub profile stats" || exit 0
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to generated images."
+          else
+            git commit -m "chore: update GitHub profile activity"
+            git push origin HEAD:main
+          fi
