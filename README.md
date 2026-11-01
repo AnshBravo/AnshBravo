@@ -1,67 +1,223 @@
-<!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=AnshBravo&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Creative%20Coder&descSize=18&descAlignY=55" width="100%" />
+<!-- ======================== HERO ======================== -->
 
 <div align="center">
 
-  <!-- Profile Picture -->
-  <img src="https://github.com/AnshBravo/AnshBravo/blob/main/pfp.png" alt="Cherry Blossom Background" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=ANSH%20BRAVO&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20ANDROID&descSize=14&descAlignY=63&color=0:111827,25:3730A3,55:7C3AED,78:DB2777,100:F97316&animation=fadeIn"/>
 
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=440&lines=Hey+there!+I'm+AnshBravo+%F0%9F%91%8B;Frontend+Developer;React+%2B+Tailwind+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <!-- Badges -->
-  <br/>
+### Engineering ideas into experiences.
 
-[![GitHub](https://img.shields.io/github/followers/AnshBravo?label=Follow&style=social)](https://github.com/AnshBravo)
-[![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anshbravo99@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=AnshBravo&color=blueviolet&style=flat&label=Profile+Views)
+Building full-stack applications, cloud-powered systems, and polished digital products.
+
+<br/>
+
+<a href="https://github.com/AnshBravo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/AnshBravo99/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:anshbravo99@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-NEW%20DELHI-6366F1?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧰 Skills & Tools
+## 👋 About Me
 
-<div align="center">
+I'm Ansh — a full-stack developer interested in building complete digital products.
 
-### 🎨 Frontend
+I work across frontend and backend engineering, database architecture, cloud infrastructure, Android development, and UI/UX.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I enjoy understanding how systems work under the hood, solving engineering problems, and turning ideas into functional applications.
 
-### 🛠️ Dev Tools & Design
+I also leverage **AI-assisted workflows and effective prompting** to accelerate development, explore solutions, automate repetitive tasks, and improve productivity.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
+**My approach:** Understand the problem. Design the solution. Build it properly. Ship it.
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ Technical Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshBravo&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshBravo&theme=radical&hide_border=true&background=0D1117&border_radius=10" alt="Streak" width="48%" />
+
+### 01 / FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts&theme=dark"/>
+
+<br/><br/>
+
+### 02 / BACKEND & DATABASES
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&theme=dark"/>
+
+<br/><br/>
+
+### 03 / CLOUD & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,bash&theme=dark"/>
+
+<br/><br/>
+
+### 04 / ANDROID DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark"/>
+
+<br/><br/>
+
+### 05 / DESIGN & AI-ASSISTED WORKFLOWS
+
+<img src="https://img.shields.io/badge/UI%2FUX-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI--Assisted%20Development-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square"/>
+
 </div>
 
 <br/>
 
+### Engineering Capabilities
+
+| Category          | Technologies & Skills                                          |
+| :---------------- | :------------------------------------------------------------- |
+| Frontend          | HTML5, CSS3, JavaScript, React, Tailwind CSS, TypeScript       |
+| Backend           | Node.js, Express.js, REST APIs                                 |
+| Database          | PostgreSQL, Prisma ORM, MongoDB                                |
+| Cloud             | AWS, S3, Cloud Integration                                     |
+| Android           | Kotlin, Jetpack Compose                                        |
+| DevOps            | Git, GitHub, CI/CD Pipelines, Deployment                       |
+| Real-time Systems | Socket.IO, WebSockets                                          |
+| Security          | JWT Authentication, RBAC, Password Hashing                     |
+| AI Productivity   | Effective Prompting, AI-Assisted Coding, Workflow Optimization |
+| Design            | UI/UX, Responsive Design                                       |
+
+---
+
+## 🚀 Selected Projects
+
+_Engineering work, not just technology demonstrations._
+
+### 🟣 Organizly
+
+**AI-Powered Collaborative Kanban Workspace**
+
+A collaborative project management platform combining real-time communication with AI-assisted task planning.
+
+- Built a full-stack application using React, TypeScript, Node.js, Express, Prisma, and PostgreSQL.
+- Integrated Google Gemini for automated task breakdown and workload estimation.
+- Implemented real-time collaboration and state synchronization using Socket.IO.
+- Developed multi-tenant authorization with JWT and Role-Based Access Control.
+- Optimized database queries through relational modeling and targeted B-tree indexing.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+
+---
+
+### 🔵 Zap
+
+**Full-Stack Social Networking Platform**
+
+A social networking application focused on real-time communication and seamless media sharing.
+
+- Architected a full-stack social platform using React, Node.js, Express, Prisma, and PostgreSQL.
+- Developed direct messaging, delivery receipts, and live activity notifications.
+- Integrated AWS S3 pre-signed URLs for direct-to-cloud media uploads.
+- Implemented automated asset lifecycle cleanup.
+- Secured authentication and protected API endpoints using JWT and password hashing.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+
+---
+
+### 🟢 Hydrated Yet
+
+**Android Hydration Tracker**
+
+An Android application focused on making hydration tracking intuitive through custom visuals and interactive experiences.
+
+- Developing with Kotlin and Jetpack Compose.
+- Building custom water bottle visualizations and dynamic intake indicators.
+- Designing animated onboarding and interactive components.
+- Implementing reusable UI components, gradients, and a consistent design system.
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black"/>
+
+---
+
+## 🧠 Engineering Approach
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBravo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Langs" width="48%" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&text=THINK%20%E2%86%92%20DESIGN%20%E2%86%92%20BUILD%20%E2%86%92%20SHIP&fontSize=23&fontColor=ffffff&color=0:4338CA,50:7C3AED,100:DB2777"/>
+
 </div>
 
-<br/>
+| Principle           | Approach                                                      |
+| :------------------ | :------------------------------------------------------------ |
+| Problem Solving     | Understand the problem before choosing a solution.            |
+| Architecture        | Build maintainable systems with clear separation of concerns. |
+| User Experience     | Treat design and functionality as equally important.          |
+| Efficiency          | Use automation and AI-assisted workflows to work smarter.     |
+| Continuous Learning | Learn through experimentation and real-world projects.        |
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
+---
+
+## 🎓 Certifications & Professional Learning
+
+<div align="center">
+
+<a href="https://coursera.org/verify/specialization/P7FG4SHS4CZ5">
+<img src="https://img.shields.io/badge/META-FULL%20STACK%20DEVELOPER-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/go/o92Xas0w">
+<img src="https://img.shields.io/badge/GOOGLE-UX%20DESIGN-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://www.freecodecamp.org/">
+<img src="https://img.shields.io/badge/FREECODECAMP-FULL%20STACK-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+</a>
+
+</div>
+
+| Certification                                  | Issuing Platform | Completion    |
+| :--------------------------------------------- | :--------------- | :------------ |
+| Meta Full Stack Developer Specialization       | Coursera         | March 2026    |
+| Google UX Design Professional Certificate (v2) | Coursera         | November 2025 |
+| Full Stack Developer Certification             | freeCodeCamp     | —             |
+
+**Areas covered**
+
+- **Meta:** HTML, CSS, JavaScript, React, Python, databases, Django, APIs and version control.
+- **Google UX:** UX design professional training.
+- **freeCodeCamp:** Full-stack development certification.
+
+---
 
 ## 📊 GitHub Activity
 
@@ -70,7 +226,6 @@
 <a href="https://github.com/AnshBravo">
 <img width="49%" src="./profile/stats.svg" alt="Ansh's GitHub Statistics"/>
 </a>
-
 <a href="https://github.com/AnshBravo">
 <img width="49%" src="./profile/top-langs.svg" alt="Ansh's Top Languages"/>
 </a>
@@ -85,32 +240,31 @@
 
 ---
 
-## 🗂️ Featured Projects
+## 🎧 Beyond the Code
 
-<div align="center">
-
-[![BMI Cali](https://github-readme-stats.vercel.app/api/pin/?username=AnshBravo&repo=BMI-Calculator&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/AnshBravo/BMI-Calculator)
-[![Crystal Smile Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=AnshBravo&repo=Crystal-Smile-Ecommerce&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/AnshBravo/Crystal-Smile-Ecommerce)
-[![Trip Nomad](https://github-readme-stats.vercel.app/api/pin/?username=AnshBravo&repo=Trip-Nomad&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/AnshBravo/Trip-Nomad)
-
-</div>
+- 🎵 Music & songwriting
+- 💪 Calisthenics and fitness
+- 🎨 UI/UX and visual design
+- 🚀 Exploring ideas and building experimental products
 
 ---
 
-## 🎮 Fun Stuff
+<!-- ======================== FOOTER ======================== -->
 
-I like tanks <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/30aba1d0-f292-41f6-841a-9726bc318b3b" />
-
-> I like to play games too
-
----
-
-<!-- Snake Contribution Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnshBravo/AnshBravo/output/github-snake-dark.svg" alt="Snake animation" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=LET'S%20BUILD%20SOMETHING.&fontSize=25&fontColor=ffffff&fontAlignY=65&color=0:DB2777,35:7C3AED,70:3730A3,100:111827"/>
+
+<a href="mailto:anshbravo99@gmail.com">
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/AnshBravo99/">
+<img src="https://img.shields.io/badge/LEETCODE-SOLVE%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<sub>Designed with curiosity. Built with intention.</sub>
+
 </div>
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=120&section=footer" width="100%" />
